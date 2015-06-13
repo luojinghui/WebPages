@@ -3,15 +3,15 @@ body{
     padding:0;
 }
 header {
-  height: 78px;
-  background-color: #000000;
-  line-height: 67px;
+    height: 78px;
+    background-color: #000000;
+    line-height: 67px;
 }
 #logo{
-  color: white;
-  font-size: 35px;
-  font-weight: bolder;
-  margin-top: 8px;
+    color: white;
+    font-size: 35px;
+    font-weight: bolder;
+    margin-top: 8px;
     margin-left:147px;
     float:left;
 }
@@ -20,17 +20,17 @@ ul,li {
     padding:0;
 }
 #menu {
-  color: #FFF;
-  float: right;
-  margin-right: 156px;
-  margin-top: 7px;
-  font-size: 20px;
+    color: #FFF;
+    float: right;
+    margin-right: 156px;
+    margin-top: 7px;
+    font-size: 20px;
 
 }
 #menu li {
-  display: inline-block;
-  padding: 0px 9px;
-  font-size: 16px;
+    display: inline-block;
+    padding: 0px 9px;
+    font-size: 16px;
 }
 #menu li>a {
     color: #FFF;
@@ -73,55 +73,55 @@ ul,li {
 }
 .buttwo{
     height: 51px;
-      background-color: rgba(0, 0, 0, 0.69);
-      margin-left: 217px;
-      width: 137px;
-      position: absolute;
-      top: 394px;
-      float: left;
-      left: 1px;
-      border-radius: 7%;
-      font-size: 23px;
-      text-align: center;
-      line-height: 49px;
-      color: #fff;
+    background-color: rgba(0, 0, 0, 0.69);
+    margin-left: 217px;
+    width: 137px;
+    position: absolute;
+    top: 394px;
+    float: left;
+    left: 1px;
+    border-radius: 7%;
+    font-size: 23px;
+    text-align: center;
+    line-height: 49px;
+    color: #fff;
 }
 .scrollone{
-  height: 18px;
-  background-color: #fff;
-  margin-left: 484px;
-  width: 18px;
-  position: absolute;
-  top: 578px;
-  float: left;
-  left: 152px;
-  border-radius: 100%;
+    height: 18px;
+    background-color: #fff;
+    margin-left: 484px;
+    width: 18px;
+    position: absolute;
+    top: 578px;
+    float: left;
+    left: 152px;
+    border-radius: 100%;
 }
 .scrolltwo{
-height: 18px;
-  background-color: #000;
-  margin-left: 484px;
-  width: 18px;
-  position: absolute;
-  top: 578px;
-  float: left;
-  left: 177px;
-  border-radius: 100%;
+    height: 18px;
+    background-color: #000;
+    margin-left: 484px;
+    width: 18px;
+    position: absolute;
+    top: 578px;
+    float: left;
+    left: 177px;
+    border-radius: 100%;
 }
 .scrollthr{
 height: 18px;
-  background-color: #000;
-  margin-left: 484px;
-  width: 18px;
-  position: absolute;
-  top: 578px;
-  float: left;
-  left: 200px;
-  border-radius: 100%;
+      background-color: #000;
+      margin-left: 484px;
+      width: 18px;
+      position: absolute;
+      top: 578px;
+      float: left;
+      left: 200px;
+      border-radius: 100%;
 }
 
 #content{
-	  height: 587px;
+	height: 587px;
 }
 #content .title{
     height: 66px;
@@ -156,11 +156,11 @@ height: 18px;
 }
 #content .tubiao{
     height: 108px;
-      width: 445px;
-      position: relative;
-      top: 294px;
-      left: -440px;
-      float: left;
+    width: 445px;
+    position: relative;
+    top: 294px;
+    left: -440px;
+    float: left;
 }
 #content .tubiao i{
     padding: 0 15px;
@@ -173,11 +173,11 @@ height: 18px;
 
 #content .rightlist{
     height: 418px;
-width: 468px;
-float: right;
-position: relative;
-top: -111px;
-right: 116px;
+    width: 468px;
+    float: right;
+    position: relative;
+    top: -111px;
+    right: 116px;
 }
 #content .one{
     height: 50px;
@@ -245,52 +245,48 @@ right: 116px;
 }
 #history{
     height: 142px;
-      width: 500px;
-      font-size: 37px;
-      color: #000;
-      text-align: center;
-      line-height: 168px;
-      font-family: sans-serif;
-      padding-left: 24px;
+    width: 500px;
+    font-size: 37px;
+    color: #000;
+    text-align: center;
+    line-height: 168px;
+    font-family: sans-serif;
+    padding-left: 24px;
 }
 #person{
     height: 418px;
 }
 #person .person1{
     height: 337px;
-      width: 216px;
-      float: left;
-      background-color: rgba(0, 0, 255, 0.15);
-      position: relative;
-      left: 151px;
-      top: 27px;
+    width: 216px;
+    float: left;
+    position: relative;
+    left: 151px;
+    top: 27px;
 }
 #person .person2{
     height: 337px;
-      width: 216px;
-      float: left;
-      background-color: rgba(0, 0, 255, 0.15);
-      position: relative;
-      left: 213px;
-      top: 27px;
+    width: 216px;
+    float: left;
+    position: relative;
+    left: 213px;
+    top: 27px;
 }
 #person .person3{
     height: 337px;
-      width: 216px;
-      float: left;
-      background-color: rgba(0, 0, 255, 0.15);
-      position: relative;
-      left: 273px;
-      top: 27px;
+    width: 216px;
+    float: left;
+    position: relative;
+    left: 273px;
+    top: 27px;
 }
 #person .person4{
     height: 337px;
-      width: 216px;
-      float: left;
-      background-color: rgba(0, 0, 255, 0.15);
-      position: relative;
-      left: 334px;
-      top: 27px;
+    width: 216px;
+    float: left;
+    position: relative;
+    left: 334px;
+    top: 27px;
 }
 #footer{
     height: 122px;
@@ -299,10 +295,10 @@ right: 116px;
 }
 #footer p{
     font-size: 16px;
-      color: #989494;
-      line-height: 100px;
-      padding-left: 152px;
-      float: left;
+    color: #989494;
+    line-height: 100px;
+    padding-left: 152px;
+    float: left;
 }
 #footer .chain{
     font-size: 10px;
@@ -312,8 +308,8 @@ right: 116px;
 }
 #footer li{
     display: inline-block;
-padding: 0 7px;
-color: #B9B9B0;
+    padding: 0 7px;
+    color: #B9B9B0;
 }
 #footer li>a {
     color: #B9B9B0;
